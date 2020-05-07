@@ -7,6 +7,6 @@
 <body>
 
 	<h1>${message}</h1>
-
+	<h3>Welcome to git study</h3>
 </body>
 </html>
