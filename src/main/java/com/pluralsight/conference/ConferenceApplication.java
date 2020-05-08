@@ -8,6 +8,7 @@ import org.springframework.boot.web.servlet.support.SpringBootServletInitializer
 public class ConferenceApplication extends SpringBootServletInitializer {
 
 	public static void main(String[] args) {
+		
 		SpringApplication.run(ConferenceApplication.class, args);
 	}
 
