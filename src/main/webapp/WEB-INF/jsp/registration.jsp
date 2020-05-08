@@ -8,5 +8,6 @@
 </head>
 <body>
 	<h1>Registration</h1>
+	<h2>Welcome to registration page</h2>
 </body>
 </html>
