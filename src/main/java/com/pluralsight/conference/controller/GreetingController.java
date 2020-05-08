@@ -12,7 +12,7 @@ public class GreetingController {
 	public String greeting(Map<String, Object> model) {
 		
 		model.put("message", "Hello Sir!");
-		
+		model.put("New message","Hello New Message from jyoti");
 		return "greeting";
 	}
 }
